@@ -83,7 +83,7 @@ body{
     font-size: 14px;
     line-height: 24px;
     color: #595959;
-    margin: 0 0 0 7px;
+    margin: 0;
 }
 .my-projects-bracket{
     font-style: normal;
@@ -242,6 +242,32 @@ padding: 0 0 0 17px;
     color: #FB6D3A;
 }
 .soft-skills-item-text{
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+/* language skills section */
+
+.language-skills-section{
+    margin: 45px 0 0 40px;
+}
+.language-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.language-skills-list{
+padding: 0 0 0 17px;
+}
+.language-skills-item{
+    color: #FB6D3A;
+}
+.language-skills-item-text{
     color: #fff;
     font-style: normal;
     font-weight: normal;
